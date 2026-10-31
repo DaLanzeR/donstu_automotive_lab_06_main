@@ -31,3 +31,6 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+*_ert_rtw/
+*_grt_rtw/
+*.log
